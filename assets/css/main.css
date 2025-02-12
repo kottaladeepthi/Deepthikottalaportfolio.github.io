@@ -701,6 +701,9 @@ input, select, textarea {
 				.row > .col-12-xlarge {
 					width: 100%;
 				}
+				.row.gtr-uniform > * {
+					padding: 0 1.5rem;
+				}
 
 				.row > .off-12-xlarge {
 					margin-left: 100%;
